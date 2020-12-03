@@ -1,6 +1,11 @@
 ****
-This is one of the past projects that I have worked on, collected real-time data from elderly people and formulated it into a viable problem statement that needed a solution. As a team of three, we worked on it for a couple of months.
+This is one of the past projects that we have worked on, collected real-time data from elderly people and formulated it into a viable problem statement that needed a solution. As a team of three, we worked on it for a couple of months.
 I have uploaded these files as I no longer am working on it, and anyone else can take this forward with the given data.
+
+Colloborators: 
+1. [Logeshwaran](https://github.com/thelogeshwaran)
+2. [Mohammad](https://github.com/themohammadsa/)
+
 ****
 # What is eMars?
 eMars (Emergency Medical Alert and Response System)is a one-stop ecosystem which provides independency to both users (elderly/parents) and customers (sons/daughters) to have a tension free and a no paranoia experience when it comes to any health or/and non-health related emergencies.
